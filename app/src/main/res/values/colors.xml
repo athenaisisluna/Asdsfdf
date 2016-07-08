@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#fddc9b</color>
+    <color name="bkg_card">#8C9EFF</color>
+    <color name="colorPrimary">#53b3ef</color>
+    <color name="colorPrimaryDark">#2b78af</color>
+    <color name="colorAccent">#abb6bc</color>
+    <color name="white">#FFF</color>
+    <color name="rojo_fuerte">#88ddff</color>
+    <color name="calipso">#50D2C2</color>
+    <color name="trans_square_color">#fd9854</color>
+    <color name="trans_selected_square_color">#fd5911</color>
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+    <string name="font_awesome_android_icon">&#xf17b;</string>
+    <string name="Ver">&#xf1fe;</string>
+    <string name="font_awesome_cubes_icon">&#xf1b3;</string>
+    <string name="font_awesome_mobile_phone_icon">&#xf10b;</string>
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+
+</resources>
